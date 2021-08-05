@@ -1,0 +1,17 @@
+To install hd-wallet-derive:
+
+  git clone https://github.com/dan-da/hd-wallet-derive
+  cd hd-wallet-derive
+  curl https://getcomposer.org/installer -o installer.php
+  php installer.php
+  php composer.phar install
+
+To install web3:
+
+  pip install web3
+
+To install bit:
+
+  pip install bit
+
+Geth tools can be downloaded at:  https://geth.ethereum.org/downloads/
